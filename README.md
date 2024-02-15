@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Pena</h1>
 <h3 align="center">"Future Software Engineer and Front-End Developer"</h3>
-- Hello there 👋
 
--🔭 I'm currently looking for my first job as a Front-End developer
+- 🔭 I'm currently looking for my first job as a Front-End developer
 
 - 👨‍💻 All of my projects are available at [https://github.com/pennAls](https://github.com/pennAls)
 
